@@ -1,2 +1,2 @@
 # vim-atomified
-A special dark vim style.
+A special dark, not stupid-looking vim colorscheme.
