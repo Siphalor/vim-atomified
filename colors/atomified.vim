@@ -1,7 +1,7 @@
 " Vim color file
 " Maintainer:	Siphalor
-" Last Change:	$Date: 2017/12/10 $
-" Version:	0.1
+" Last Change:	$Date: 2018/06/20 $
+" Version:	0.2
 
 
 " cool help screens
@@ -37,7 +37,7 @@ hi Search	guibg=#666666 guifg=White
 hi SpecialKey	guifg=yellowgreen
 hi StatusLine	guibg=#666666 guifg=White gui=none
 hi StatusLineNC	guibg=#444444 guifg=White gui=none
-hi Title	guifg=indianred
+hi Title	guifg=#e5ca00 gui=none
 hi Visual	gui=none guifg=khaki guibg=olivedrab
 hi WarningMsg	guifg=salmon
 
