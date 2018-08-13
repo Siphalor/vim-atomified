@@ -103,5 +103,5 @@ hi Todo         ctermfg=LightGreen
 
 " plugin highlights
 " -> MatchTagAlways
-"  (for this you may want to `let g:mta_use_matchparen_group=0` in your vimrc)
+"  NOTE: (for this you may want to `let g:mta_use_matchparen_group=0` and `g:mta_set_default_matchtag_color=0` in your vimrc)
 hi MatchTag     guibg=grey28 gui=none
