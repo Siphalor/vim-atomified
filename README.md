@@ -6,5 +6,8 @@ If you have any suggestions like support for specific languages or gui elements,
 ## Install
 You can easily "install" it by either downloading and copying the files or via [pathogen](https://github.com/tpope/vim-pathogen) through cloning this repository to your `bundle` directory.
 
+## Screenshot
+![](demo.png)
+
 ## Notes
 You may want to `:set termguicolors` for some terminal's full color support.
