@@ -23,6 +23,7 @@ hi Normal       guifg=White guibg=grey18
 hi Normal       ctermfg=White ctermbg=Black
 
 " highlight groups
+hi Conceal      guibg=grey28 guibg=NONE
 hi Cursor       guifg=NONE guibg=NONE gui=reverse
 hi Cursor       ctermfg=Black ctermbg=White
 hi CursorColumn guibg=grey28
