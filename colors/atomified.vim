@@ -120,6 +120,11 @@ hi Todo         ctermfg=LightGreen
 " -> MatchTagAlways
 "  NOTE: (for this you may want to `let g:mta_use_matchparen_group=0` and `g:mta_set_default_matchtag_color=0` in your vimrc)
 hi MatchTag guibg=grey28 gui=none
+" -> ALE
+hi ALEError       guibg=#663d3d
+hi ALEWarning     guibg=#6b6843
+hi ALEErrorSign   guibg=#663d3d guifg=White
+hi ALEWarningSign guibg=#6b6843 guifg=White
 
 " -> Tagbar
 hi TagbarSignature           guifg=grey75
